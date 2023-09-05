@@ -1,3 +1,8 @@
+Estudante de analise e desenvolvimento de sistemas e futuro programador me dedicando o máximo possível para conquistar o meu objetivo de me tornar um desenvolvedor
+
+
+Tecnologias que tenho conhecimento: HTML, CSS, Javascript e Python,
+
 
 👩‍💻  Back-End
 
